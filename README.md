@@ -13,4 +13,4 @@ This is a simple React.js frontend application that allows users to input a YouT
 - Node.js and npm installed on your machine
 
 ## Snapshot of UI
-<img width="1496" alt="Screenshot 2025-03-16 at 6 31 40 PM" src="https://github.com/user-attachments/assets/bbe50d69-f92b-4c86-9e85-51d93ad7c1dc" />
+<img width="1496" alt="Screenshot 2025-03-16 at 8 57 00 PM" src="https://github.com/user-attachments/assets/31db3212-975a-4a7f-85d0-19bdd7125cd8" />
