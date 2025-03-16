@@ -5,7 +5,7 @@ This is a simple React.js frontend application that allows users to input a YouT
 ## Features
 
 - Input a YouTube Shorts URL for analysis
-- Display analysis results from the backend
+- Display analysis results with suitable search query from the backend
 - Handle errors gracefully
 
 ## Prerequisites
